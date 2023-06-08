@@ -16,6 +16,18 @@
 # res = Chek(number)
 # print(res)   
 
+# Rekursia
+# def prime_number(n, i=2):
+#     if n == 1 or n == 2:
+#         return True
+#     elif n % i == 0:
+#         return False
+#     elif i*i>n:
+#         return True 
+#     return prime_number(n, i+1)
+
+# print(prime_number())
+
 
 # Задача №37.
 # Дано натуральное число N и
